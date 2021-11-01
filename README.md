@@ -1,4 +1,9 @@
-# Suggestions
-This is where Novaline suggestions will be.
+Suggestions
+---
+This is the place for all Novaline suggestions.
 
-Please do not make crap suggestions, if you do we will probably just close your issue.
+
+Warning
+---
+Please do not make crap suggestions.<br>
+If you do, we will probably just close your issue and do nothing.
